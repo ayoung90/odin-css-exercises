@@ -3,14 +3,14 @@ body {
   text-align: center;
 }
 
-.plants{
+.plants {
   display: flex;
   justify-content: center;
   margin: 32px;
   gap: 52px;
 }
 
-.text{
+.text {
   max-width: 200px;
 }
 
