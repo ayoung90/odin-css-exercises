@@ -16,30 +16,33 @@ body {
   justify-content: space-between;
 }
 
-.content{
- display: flex; 
- flex-direction: column;
- text-align: center;
- align-content: center;
+.content {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-content: center;
 }
 
-.footer{
+.footer {
   background-color: #eeeeee;
 }
 
-.left-links
-,.right-links{
+.left-links,
+.right-links {
   display: flex;
   gap: 10px;
   list-style: none;
   margin: 0;
   padding: 10px;
-  
+
 }
-a:hover, a:visited, a:link, a:active
-{
-    text-decoration: none;
-    color: rgb(107, 107, 107);
+
+a:hover,
+a:visited,
+a:link,
+a:active {
+  text-decoration: none;
+  color: rgb(107, 107, 107);
 }
 
 img {
